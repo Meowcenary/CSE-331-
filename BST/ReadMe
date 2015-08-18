@@ -1,0 +1,5 @@
+I put a lot of extra functions that are never used into my program just because I noticed them in the book as I was reading through. I dont think
+this will be a problem but if it please let me know for future reference.
+
+Command to compile program: make -f bst.makefile
+Command to run program: ./BST [input file if in same directory as compiled program or full path from root to input file]
